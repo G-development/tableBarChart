@@ -1,0 +1,30 @@
+.barchart-prev td {
+  padding: 10px 20px;
+}
+.barchart-prev td:not(:first-child) {
+  text-align: center;
+}
+.barchart td:first-child {
+  padding: 20px;
+}
+
+.header th {
+  padding: 5px 0;
+}
+
+.header div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.header img {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+}
+
+.row td {
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+}
